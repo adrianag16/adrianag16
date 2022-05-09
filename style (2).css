@@ -1,0 +1,10 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h1{background-color: rgb(255, 208, 0)}
+h2{background-color: rgb(210, 106, 106)}
+body{background-color: rgb(168, 235, 240)}
+h1,h2 {
+  font-family: verdana;
+  font-size: 20px;
